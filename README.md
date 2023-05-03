@@ -10,7 +10,7 @@ pip install requests
 python3 send.py <Key> <Domain>
 ```
 
-> Example
+> EXAMPLE:
 ```bash
 python3 send.py key-ii82842847n2uue2 example.com
 ```
